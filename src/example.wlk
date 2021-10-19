@@ -1,6 +1,6 @@
 /** First Wollok example */
 object dalas {
 	method comoEstas() {
-		return '>_<'
+		return 'Por fin anda'
 	}
 }
